@@ -1,0 +1,269 @@
+[12-Nov-2016 21:21:20 UTC] PHP Warning:  require_once(class/shortcodes.php): failed to open stream: No such file or directory in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 12
+[12-Nov-2016 21:21:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/shortcodes.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 12
+[12-Nov-2016 21:21:31 UTC] PHP Warning:  require_once(class/shortcodes.php): failed to open stream: No such file or directory in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 12
+[12-Nov-2016 21:21:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/shortcodes.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 12
+[12-Nov-2016 21:21:32 UTC] PHP Warning:  require_once(class/shortcodes.php): failed to open stream: No such file or directory in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 12
+[12-Nov-2016 21:21:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/shortcodes.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 12
+[12-Nov-2016 21:26:05 UTC] PHP Warning:  Missing argument 1 for plugin_dir_url(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 23 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php on line 810
+[12-Nov-2016 21:26:20 UTC] PHP Warning:  Missing argument 1 for plugin_dir_path(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 24 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php on line 798
+[12-Nov-2016 21:29:37 UTC] PHP Warning:  Missing argument 1 for plugin_dir_path(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 11 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php on line 798
+[12-Nov-2016 21:29:39 UTC] PHP Warning:  Missing argument 1 for plugin_dir_path(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 11 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php on line 798
+[12-Nov-2016 21:29:51 UTC] PHP Warning:  Missing argument 1 for plugin_dir_path(), called in /home/erwan/blog.erwanguillou.com/wp-content/themes/themerwan/functions.php on line 23 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php on line 798
+[12-Nov-2016 21:32:11 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 21
+[12-Nov-2016 21:32:13 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 21
+[12-Nov-2016 21:32:21 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 21
+[12-Nov-2016 21:32:34 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 21
+[12-Nov-2016 21:32:35 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 21
+[12-Nov-2016 21:32:36 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 21
+[12-Nov-2016 21:33:01 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php on line 22
+[12-Nov-2016 21:51:12 UTC] PHP Warning:  Missing argument 1 for register_activation_hook(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 8 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php on line 832
+[12-Nov-2016 21:51:12 UTC] PHP Warning:  Missing argument 2 for register_activation_hook(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 8 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php on line 832
+[13-Nov-2016 15:42:14 UTC] PHP Warning:  array_walk() expects parameter 1 to be array, string given in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/biens.php on line 67
+[13-Nov-2016 15:50:39 UTC] Erreur de la base de données WordPress Unknown column 'mandatt' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND mandatt = '2' ORDER BY id asc  faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[13-Nov-2016 15:50:49 UTC] Erreur de la base de données WordPress Unknown column 'mandatt' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND mandatt = '2' ORDER BY id asc  faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[13-Nov-2016 16:42:35 UTC] PHP Warning:  Missing argument 1 for get_query_var(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 13 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/query.php on line 26
+[13-Nov-2016 16:42:35 UTC] PHP Notice:  Undefined variable: var in /home/erwan/blog.erwanguillou.com/wp-includes/query.php on line 28
+[13-Nov-2016 17:28:38 UTC] PHP Notice:  Undefined variable: output in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 19
+[13-Nov-2016 20:21:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ')' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 41
+[13-Nov-2016 21:27:02 UTC] PHP Notice:  Undefined index: searchable in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 54
+[13-Nov-2016 21:40:10 UTC] PHP Notice:  Undefined index: cc_keyword in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/biens.php on line 86
+[13-Nov-2016 21:40:10 UTC] PHP Notice:  Undefined index: cc_keyword in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/biens.php on line 87
+[13-Nov-2016 21:43:17 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'inputs' does not have a method 'id' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 42
+[13-Nov-2016 21:44:13 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'inputs' does not have a method 'id' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 42
+[13-Nov-2016 21:44:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting function (T_FUNCTION) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/inputs.php on line 25
+[13-Nov-2016 21:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ucfist() in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php:49
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(326): shortcodes::search_engine('', '', 'cc_immo_search_...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(cc_imm...', 'do_shortcode_ta...', '<div id="body">...')
+#3 /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php(235): do_shortcode('<div id="body">...')
+#4 /home/erwan/blog.erwanguillou.com/wp-includes/post-template.php(240): apply_filters('the_content', '<div id="body">...')
+#5 /home/erwan/blog.erwanguillou.com/wp-content/themes/themerwan/pages/default.php(8): the_content()
+#6 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(574): require('/home/erwan/blo...')
+#7 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(531): load_template('/home/erwan/blo...', false)
+#8 in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 49
+[13-Nov-2016 22:15:17 UTC] PHP Notice:  Undefined index: cc_search_chambre_min in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 51
+[13-Nov-2016 22:15:17 UTC] PHP Notice:  Undefined index: cc_search_chambre_min in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 51
+[13-Nov-2016 22:15:17 UTC] PHP Notice:  Undefined index: cc_search_chambre_min in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 51
+[13-Nov-2016 22:15:45 UTC] PHP Notice:  Undefined index: cc_search_prix_min in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 51
+[13-Nov-2016 22:15:45 UTC] PHP Notice:  Undefined index: cc_search_chambre_min in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 51
+[13-Nov-2016 22:15:45 UTC] PHP Notice:  Undefined index: cc_search_frais_agence_min in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 51
+[13-Nov-2016 22:23:22 UTC] PHP Fatal error:  Uncaught Error: Class 'biens' not found in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php:95
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(326): shortcodes::immovables_list(Array, '', 'cc_immo_immovab...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(cc_imm...', 'do_shortcode_ta...', '<div id="body">...')
+#3 /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php(235): do_shortcode('<div id="body">...')
+#4 /home/erwan/blog.erwanguillou.com/wp-includes/post-template.php(240): apply_filters('the_content', '<div id="body">...')
+#5 /home/erwan/blog.erwanguillou.com/wp-content/themes/themerwan/pages/default.php(8): the_content()
+#6 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(574): require('/home/erwan/blo...')
+#7 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(531): load_template('/home/erwan/blo...', false)
+#8 /home/ in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 95
+[13-Nov-2016 22:27:06 UTC] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/inputs.php on line 82
+[13-Nov-2016 22:39:39 UTC] PHP Warning:  Missing argument 1 for _page_traverse_name(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 41 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/post.php on line 4314
+[13-Nov-2016 22:39:39 UTC] PHP Warning:  Missing argument 2 for _page_traverse_name(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 41 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/post.php on line 4314
+[13-Nov-2016 22:39:39 UTC] PHP Warning:  Missing argument 3 for _page_traverse_name(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 41 and defined in /home/erwan/blog.erwanguillou.com/wp-includes/post.php on line 4314
+[13-Nov-2016 22:39:39 UTC] PHP Notice:  Undefined variable: page_id in /home/erwan/blog.erwanguillou.com/wp-includes/post.php on line 4315
+[14-Nov-2016 06:48:38 UTC] Erreur de la base de données WordPress Unknown column 'mandat' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND mandat = '1' ORDER BY id asc  faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 07:37:19 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 113
+[14-Nov-2016 07:37:19 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 114
+[14-Nov-2016 07:37:19 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 115
+[14-Nov-2016 07:37:19 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 113
+[14-Nov-2016 07:37:19 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 114
+[14-Nov-2016 07:37:19 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 115
+[14-Nov-2016 07:44:11 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 113
+[14-Nov-2016 07:44:11 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 114
+[14-Nov-2016 07:44:11 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 115
+[14-Nov-2016 07:44:13 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 113
+[14-Nov-2016 07:44:13 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 114
+[14-Nov-2016 07:44:13 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 115
+[14-Nov-2016 07:44:13 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 113
+[14-Nov-2016 07:44:13 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 114
+[14-Nov-2016 07:44:13 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 115
+[14-Nov-2016 07:44:53 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 118
+[14-Nov-2016 07:44:53 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 119
+[14-Nov-2016 07:44:53 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 120
+[14-Nov-2016 07:44:53 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 118
+[14-Nov-2016 07:44:53 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 119
+[14-Nov-2016 07:44:53 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 120
+[14-Nov-2016 07:45:46 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 118
+[14-Nov-2016 07:45:46 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 119
+[14-Nov-2016 07:45:46 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 120
+[14-Nov-2016 07:45:46 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 118
+[14-Nov-2016 07:45:46 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 119
+[14-Nov-2016 07:45:46 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 120
+[14-Nov-2016 07:48:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 108
+[14-Nov-2016 07:48:27 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 134
+[14-Nov-2016 07:48:27 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 135
+[14-Nov-2016 07:48:27 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 136
+[14-Nov-2016 07:48:27 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 134
+[14-Nov-2016 07:48:27 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 135
+[14-Nov-2016 07:48:27 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 136
+[14-Nov-2016 07:48:50 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 136
+[14-Nov-2016 07:48:50 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 137
+[14-Nov-2016 07:48:50 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 138
+[14-Nov-2016 07:48:50 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 136
+[14-Nov-2016 07:48:50 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 137
+[14-Nov-2016 07:48:50 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 138
+[14-Nov-2016 07:49:33 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 135
+[14-Nov-2016 07:49:33 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 136
+[14-Nov-2016 07:49:33 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 137
+[14-Nov-2016 07:50:16 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 132
+[14-Nov-2016 07:50:16 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 133
+[14-Nov-2016 07:50:16 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 134
+[14-Nov-2016 07:50:32 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 135
+[14-Nov-2016 07:50:32 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 136
+[14-Nov-2016 07:50:32 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 137
+[14-Nov-2016 07:50:50 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 135
+[14-Nov-2016 07:50:50 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 136
+[14-Nov-2016 07:50:50 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 137
+[14-Nov-2016 07:52:02 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 147
+[14-Nov-2016 07:52:02 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 148
+[14-Nov-2016 07:52:02 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 149
+[14-Nov-2016 07:52:37 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 151
+[14-Nov-2016 07:52:37 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 152
+[14-Nov-2016 07:52:37 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 153
+[14-Nov-2016 07:53:18 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 152
+[14-Nov-2016 07:53:18 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 153
+[14-Nov-2016 07:53:18 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 154
+[14-Nov-2016 07:55:02 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 153
+[14-Nov-2016 07:55:02 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 154
+[14-Nov-2016 07:55:02 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 155
+[14-Nov-2016 07:56:05 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 152
+[14-Nov-2016 07:56:05 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 153
+[14-Nov-2016 07:56:05 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 154
+[14-Nov-2016 07:59:54 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 149
+[14-Nov-2016 07:59:54 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 150
+[14-Nov-2016 07:59:54 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 151
+[14-Nov-2016 08:00:20 UTC] PHP Notice:  Undefined property: stdClass::$image in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 152
+[14-Nov-2016 08:00:20 UTC] PHP Notice:  Undefined property: stdClass::$prix in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 153
+[14-Nov-2016 08:00:20 UTC] PHP Notice:  Undefined property: stdClass::$accroche in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 154
+[14-Nov-2016 08:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method inputs::mandat() in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php:56
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(326): shortcodes::search_engine(Array, '', 'cc_immo_search_...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(cc_imm...', 'do_shortcode_ta...', '<h2 id="intro-s...')
+#3 /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php(235): do_shortcode('<h2 id="intro-s...')
+#4 /home/erwan/blog.erwanguillou.com/wp-includes/post-template.php(240): apply_filters('the_content', '<h2 id="intro-s...')
+#5 /home/erwan/blog.erwanguillou.com/wp-content/themes/themerwan/pages/default.php(8): the_content()
+#6 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(574): require('/home/erwan/blo...')
+#7 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(531): load_template('/home/erwan/blo...',  in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 56
+[14-Nov-2016 08:45:51 UTC] Erreur de la base de données WordPress Unknown column 'accroche' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND bien_mandat = '1' AND (accroche LIKE '%toto%' OR description LIKE '%toto%') faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 08:46:29 UTC] Erreur de la base de données WordPress Unknown column 'accroche' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND bien_mandat = '1' AND (accroche LIKE '%toto%' OR description LIKE '%toto%') faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 08:47:08 UTC] Erreur de la base de données WordPress Unknown column 'accroche' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND bien_mandat = '1' AND (accroche LIKE '%toto%' OR description LIKE '%toto%') faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 08:52:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ':' or '{' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 48
+[14-Nov-2016 09:03:36 UTC] Erreur de la base de données WordPress Unknown column 'bien_prix_min' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND bien_mandat = '1' AND bien_etat = '' AND bien_prix_min = '' AND bien_prix_max = '' AND bien_frais_agence_min = '' AND bien_frais_agence_max = '' AND bien_adresse = '' AND bien_ville = '' AND bien_pays = '' AND bien_exposition = '' AND bien_transport = '' AND bien_commerce = '' AND bien_cuisine = '' AND bien_chambre_min = '' AND bien_chambre_max = '' faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 09:06:41 UTC] Erreur de la base de données WordPress Unknown column 'accroche' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND (accroche LIKE '%ok%' OR description LIKE '%ok%') AND bien_mandat = '1' AND bien_etat = '' AND bien_prix_max = '' AND bien_frais_agence_max = '' AND bien_adresse = '' AND bien_ville = '' AND bien_pays = '' AND bien_exposition = '' AND bien_transport = '' AND bien_commerce = '' AND bien_cuisine = '' AND bien_chambre_max = '' faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 09:07:05 UTC] Erreur de la base de données WordPress Unknown column 'accroche' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND (accroche LIKE '%ok%' OR description LIKE '%ok%') AND bien_mandat = '1' faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 09:26:17 UTC] Erreur de la base de données WordPress Unknown column 'accroche' in 'where clause' pour la requête SELECT * FROM wp1d_cc_biens WHERE 1  AND (accroche LIKE '%   %' OR description LIKE '%   %') AND bien_mandat = '1' faite par require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/themerwan/page.php'), get_template_part, locate_template, load_template, require('/themes/themerwan/pages/default.php'), the_content, apply_filters('the_content'), do_shortcode, preg_replace_callback, do_shortcode_tag, shortcodes::immovables_list, biens::liste
+[14-Nov-2016 09:27:53 UTC] PHP Notice:  Undefined index: cc in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 34
+[14-Nov-2016 10:18:47 UTC] PHP Notice:  Array to string conversion in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/biens.php on line 55
+[14-Nov-2016 10:19:10 UTC] PHP Notice:  Undefined index: keyword in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/biens.php on line 55
+[14-Nov-2016 10:34:47 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 34
+[14-Nov-2016 10:53:39 UTC] PHP Warning:  Missing argument 2 for shortcodes::immovables_list(), called in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 16 and defined in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 107
+[14-Nov-2016 10:53:39 UTC] PHP Notice:  Trying to get property of non-object in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 19
+[14-Nov-2016 10:53:54 UTC] PHP Notice:  Trying to get property of non-object in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 19
+[14-Nov-2016 11:31:40 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 12
+[14-Nov-2016 11:31:54 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 24
+[14-Nov-2016 11:32:09 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php:12
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(326): shortcodes::get_immovable('', '', 'cc_immo_immovab...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(cc_imm...', 'do_shortcode_ta...', '<div id="body" ...')
+#3 /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php(235): do_shortcode('<div id="body" ...')
+#4 /home/erwan/blog.erwanguillou.com/wp-includes/post-template.php(240): apply_filters('the_content', '<div id="body" ...')
+#5 /home/erwan/blog.erwanguillou.com/wp-content/themes/themerwan/pages/default.php(8): the_content()
+#6 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(574): require('/home/erwan/blo...')
+#7 /home/erwan/blog.erwanguillou.com/wp-includes/template.php(531): load_template('/home/erwan/blo...', false)
+#8 /home/erw in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 12
+[14-Nov-2016 11:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/erwan/blog.erwanguillou.com/wp-includes/query.php:28
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php(17): get_query_var('pagename')
+#1 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php(25): cc_immo::init()
+#2 /home/erwan/blog.erwanguillou.com/wp-settings.php(273): include_once('/home/erwan/blo...')
+#3 /home/erwan/blog.erwanguillou.com/wp-config.php(89): require_once('/home/erwan/blo...')
+#4 /home/erwan/blog.erwanguillou.com/wp-load.php(39): require_once('/home/erwan/blo...')
+#5 /home/erwan/blog.erwanguillou.com/wp-blog-header.php(13): require_once('/home/erwan/blo...')
+#6 /home/erwan/blog.erwanguillou.com/index.php(17): require('/home/erwan/blo...')
+#7 {main}
+  thrown in /home/erwan/blog.erwanguillou.com/wp-includes/query.php on line 28
+[14-Nov-2016 11:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/erwan/blog.erwanguillou.com/wp-includes/query.php:28
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php(17): get_query_var('pagename')
+#1 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php(25): cc_immo::init()
+#2 /home/erwan/blog.erwanguillou.com/wp-settings.php(273): include_once('/home/erwan/blo...')
+#3 /home/erwan/blog.erwanguillou.com/wp-config.php(89): require_once('/home/erwan/blo...')
+#4 /home/erwan/blog.erwanguillou.com/wp-load.php(39): require_once('/home/erwan/blo...')
+#5 /home/erwan/blog.erwanguillou.com/wp-blog-header.php(13): require_once('/home/erwan/blo...')
+#6 /home/erwan/blog.erwanguillou.com/index.php(17): require('/home/erwan/blo...')
+#7 {main}
+  thrown in /home/erwan/blog.erwanguillou.com/wp-includes/query.php on line 28
+[14-Nov-2016 11:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/erwan/blog.erwanguillou.com/wp-includes/query.php:28
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php(17): get_query_var('page')
+#1 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php(25): cc_immo::init()
+#2 /home/erwan/blog.erwanguillou.com/wp-settings.php(273): include_once('/home/erwan/blo...')
+#3 /home/erwan/blog.erwanguillou.com/wp-config.php(89): require_once('/home/erwan/blo...')
+#4 /home/erwan/blog.erwanguillou.com/wp-load.php(39): require_once('/home/erwan/blo...')
+#5 /home/erwan/blog.erwanguillou.com/wp-blog-header.php(13): require_once('/home/erwan/blo...')
+#6 /home/erwan/blog.erwanguillou.com/index.php(17): require('/home/erwan/blo...')
+#7 {main}
+  thrown in /home/erwan/blog.erwanguillou.com/wp-includes/query.php on line 28
+[14-Nov-2016 11:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/erwan/blog.erwanguillou.com/wp-includes/query.php:28
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php(15): get_query_var('pagename')
+#1 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/cc_immo.php(25): cc_immo::init()
+#2 /home/erwan/blog.erwanguillou.com/wp-settings.php(273): include_once('/home/erwan/blo...')
+#3 /home/erwan/blog.erwanguillou.com/wp-config.php(89): require_once('/home/erwan/blo...')
+#4 /home/erwan/blog.erwanguillou.com/wp-load.php(39): require_once('/home/erwan/blo...')
+#5 /home/erwan/blog.erwanguillou.com/wp-blog-header.php(13): require_once('/home/erwan/blo...')
+#6 /home/erwan/blog.erwanguillou.com/index.php(17): require('/home/erwan/blo...')
+#7 {main}
+  thrown in /home/erwan/blog.erwanguillou.com/wp-includes/query.php on line 28
+[14-Nov-2016 11:44:07 UTC] PHP Notice:  Undefined index: query_parsed in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 19
+[14-Nov-2016 11:44:09 UTC] PHP Notice:  Undefined index: query_parsed in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 19
+[14-Nov-2016 11:44:26 UTC] PHP Notice:  Undefined index: query_parsed in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 20
+[14-Nov-2016 11:45:07 UTC] PHP Notice:  Undefined index: query_parsed in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 19
+[14-Nov-2016 11:45:43 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/cc_immo.php on line 17
+[14-Nov-2016 11:51:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 12
+[14-Nov-2016 12:09:40 UTC] PHP Notice:  Undefined variable: input in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 36
+[14-Nov-2016 12:09:40 UTC] PHP Notice:  Undefined variable: input in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 36
+[14-Nov-2016 12:09:40 UTC] PHP Notice:  Undefined variable: input in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 36
+[14-Nov-2016 12:09:40 UTC] PHP Notice:  Undefined variable: input in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 36
+[14-Nov-2016 12:09:40 UTC] PHP Notice:  Undefined variable: input in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 36
+[14-Nov-2016 12:09:40 UTC] PHP Notice:  Undefined variable: input in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 36
+[14-Nov-2016 14:53:20 UTC] PHP Notice:  Undefined variable: bien_id in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 27
+[14-Nov-2016 14:53:24 UTC] PHP Notice:  Undefined variable: bien_id in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 27
+[14-Nov-2016 14:53:26 UTC] PHP Notice:  Undefined variable: bien_id in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 27
+[14-Nov-2016 14:53:44 UTC] PHP Notice:  Undefined variable: bien_id in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 27
+[14-Nov-2016 14:53:48 UTC] PHP Notice:  Undefined variable: bien_id in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 27
+[14-Nov-2016 14:58:28 UTC] PHP Notice:  do_shortcode_tag est appelée de la mauvaise manière. Tentative d’analyse d’un code court sans fonction de rappel valide&nbsp;: cc_immo_contact Veuillez lire <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress</a> (en) pour plus d’informations. (Ce message a été ajouté à la version 4.3.0.) in /home/erwan/blog.erwanguillou.com/wp-includes/functions.php on line 3996
+[14-Nov-2016 15:26:11 UTC] PHP Parse error:  syntax error, unexpected '$rn' (T_VARIABLE), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 23
+[14-Nov-2016 15:26:16 UTC] PHP Parse error:  syntax error, unexpected '.', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 23
+[14-Nov-2016 15:26:26 UTC] PHP Notice:  Undefined variable: rnCe in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 23
+[14-Nov-2016 15:44:20 UTC] PHP Fatal error:  Uncaught phpmailerException: Invalid address: Chalets et Caviar in /home/erwan/blog.erwanguillou.com/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-includes/pluggable.php(352): PHPMailer->setFrom('Chalets et Cavi...', 'WordPress', false)
+#1 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php(39): wp_mail('maels1991@gmail...', 'Int\xC3\xA9r\xC3\xAAt pour ...', 'Bonjour Monsieu...', Array)
+#2 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(326): shortcodes::get_contact_form('', '', 'cc_immo_contact')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(cc_imm...', 'do_shortcode_ta...', '[cc_immo_contac...')
+#5 /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php(235): do_shortcode('[cc_immo_contac...')
+#6 /home/erwan/blog.erwanguillou.com/wp-includes/post-template.php(240): apply_filters('the_content', '[cc_immo_contac...')
+#7 in /home/erwan/blog.erwanguillou.com/wp-includes/class-phpmailer.php on line 946
+[14-Nov-2016 15:44:41 UTC] PHP Fatal error:  Uncaught phpmailerException: Invalid address:  in /home/erwan/blog.erwanguillou.com/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/erwan/blog.erwanguillou.com/wp-includes/pluggable.php(352): PHPMailer->setFrom('', 'Chalets et Cavi...', false)
+#1 /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php(38): wp_mail('maels1991@gmail...', 'Int\xC3\xA9r\xC3\xAAt pour ...', 'Bonjour Monsieu...', Array)
+#2 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(326): shortcodes::get_contact_form('', '', 'cc_immo_contact')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/erwan/blog.erwanguillou.com/wp-includes/shortcodes.php(223): preg_replace_callback('/\\[(\\[?)(cc_imm...', 'do_shortcode_ta...', '[cc_immo_contac...')
+#5 /home/erwan/blog.erwanguillou.com/wp-includes/plugin.php(235): do_shortcode('[cc_immo_contac...')
+#6 /home/erwan/blog.erwanguillou.com/wp-includes/post-template.php(240): apply_filters('the_content', '[cc_immo_contac...')
+#7 /home/erwan/blog.erwangui in /home/erwan/blog.erwanguillou.com/wp-includes/class-phpmailer.php on line 946
+[14-Nov-2016 15:47:58 UTC] PHP Parse error:  syntax error, unexpected '$objet' (T_VARIABLE) in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 35
+[14-Nov-2016 15:55:08 UTC] PHP Notice:  Undefined variable: bien in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 82
+[14-Nov-2016 16:11:02 UTC] PHP Notice:  Undefined variable: bien in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 82
+[14-Nov-2016 16:11:02 UTC] PHP Notice:  Trying to get property of non-object in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 82
+[14-Nov-2016 16:18:26 UTC] PHP Notice:  Undefined variable: bien in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 84
+[14-Nov-2016 16:19:10 UTC] PHP Notice:  Undefined variable: bien in /home/erwan/blog.erwanguillou.com/wp-content/plugins/cc_immo/class/shortcodes.php on line 84

@@ -1,0 +1,1 @@
+Page auteur par défaut
